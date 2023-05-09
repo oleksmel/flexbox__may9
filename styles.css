@@ -5,14 +5,52 @@
 }
 
 .block_ {
+    font-family: 'Secular One', sans-serif;
     width: 150px;
     height: 150px;
     border: 1px solid #333;
+    font-size: 26px;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
+.block1 {
+    background-color: blueviolet;
+}
 
+.block2 {
+    background-color: gold;
+}
 
+.block3 {
+    background-color: green;
+}
 
+.block4 {
+    background-color: palevioletred;
+}
+
+.block5 {
+    background-color: black;
+}
+
+.block6 {
+    background-color: red;
+}
+
+.block7 {
+    background-color: orange;
+}
+
+.block8 {
+    background-color: gray;
+}
+
+.block9 {
+    background-color: aqua;
+}
 
 
 
