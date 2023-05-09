@@ -10,3 +10,8 @@
     background-size: cover;
 }
 
+.big-link {
+    font-size: 36px;
+    color: #000;
+    margin: 20px;
+}
