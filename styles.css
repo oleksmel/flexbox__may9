@@ -4,6 +4,24 @@
     box-sizing: border-box;
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
 .bg {
     background: url(./files/говерла-гора.jpeg) top center no-repeat;
     height: 600px;
@@ -14,4 +32,14 @@
     font-size: 36px;
     color: #000;
     margin: 20px;
+    display: inline-block;
+
+    text-decoration: underline;
 }
+
+p {
+    text-decoration: underline;
+    text-decoration: line-through;
+    text-decoration: overline;
+    font-size: 26px;
+}*/
