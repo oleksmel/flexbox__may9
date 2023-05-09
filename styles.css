@@ -4,7 +4,11 @@
     box-sizing: border-box;
 }
 
-
+.block_ {
+    width: 150px;
+    height: 150px;
+    border: 1px solid #333;
+}
 
 
 
