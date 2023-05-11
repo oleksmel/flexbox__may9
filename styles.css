@@ -52,7 +52,10 @@
     background-color: aqua;
 }
 
-
+.flexbox {
+    display: flex;
+    justify-content: space-evenly;
+}
 
 
 
